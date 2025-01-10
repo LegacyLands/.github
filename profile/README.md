@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FFC0CB,100:FFFFFF&height=300&section=header&text=LegacyLands&fontSize=70&fontColor=000000&animation=fadeIn&desc=LegacyLands%20%E2%9D%A4%EF%B8%8F%20Open%20Source&descAlignY=70&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:FFC0CB,100:FFFFFF&height=350&section=header&text=LegacyLands&fontSize=70&fontColor=000000&animation=fadeIn&desc=LegacyLands%20%E2%9D%A4%EF%B8%8F%20Open%20Source&descAlignY=65&descAlign=50&descFontSize=18&stroke=FFFFFF)
