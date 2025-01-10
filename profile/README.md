@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=8AAAE5&text=LegacyLands&reversal=false&textBg=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=LegacyLands%20❤️%20Open%20Source&descAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=8AAAE5&text=LegacyLands&reversal=false&textBg=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=LegacyLands%20❤️%20Open%20Source&descAlignY=52&section=header)
